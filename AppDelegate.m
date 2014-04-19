@@ -3,7 +3,7 @@
 //  Calculator
 //
 //  Created by Pragya Singh on 3/26/14.
-//  Copyright (c) 2014 Surendera & Associates. All rights reserved.
+//  Copyright (c) 2014 . All rights reserved.
 //
 
 #import "AppDelegate.h"
